@@ -31,3 +31,5 @@ Your Ambi Climate devices will be added to your list of "Things", and the Ambi C
 
 ## Notes
 This capability uses an unofficial API (see [debug/ampipy](https://github.com/debug/ambipy)) which may stop working at any point.  At the moment, this capability only exposes the current Temperature and Relative Humidity.  It does not allow any update of Ambi Climate or air conditioner settings.
+
+Official API:  https://api.ambiclimate.com
